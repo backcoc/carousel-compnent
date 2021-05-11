@@ -1,0 +1,47 @@
+.cont{
+    max-width: 1220px;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    
+}
+.modal{
+    background-color:rgba(20, 20, 20, 0.664);
+}
+#my-carousel0{
+    width: 130%;
+    margin-right: 10px;
+}
+#my-carousel1{
+    width: 130%;
+    margin-right: 10px;
+}
+#my-carousel2{
+    width: 130%;
+    margin-right: 10px;
+}
+.modal-content{
+    height: auto;
+    width: auto;
+    vertical-align: baseline;
+}
+.modal-footer{
+    font-size: 18px;
+    vertical-align: baseline;
+    width: 130%;
+    background-color: rgb(255, 254, 254);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(12, 11, 11);
+    border-style:groove;
+    border-color: rgb(80, 80, 80);
+    border-radius: 6px;
+}
+.listos li{
+    display: inline;
+}
+.price{
+    font-size: 10px;
+    padding-top: 8px;
+    text-shadow: darkgray;
+    padding-right: 2px;
+}
